@@ -53,7 +53,8 @@
 在微信开发者工具中上传版本，然后去微信公众号平台登录小程序，在版本管理中提交审核，审核通过后就可以上线了，审核时间1-7个工作日。
 
 ## 演示
-
+![image](https://github.com/leechence/hello-world/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200812164506.jpg)
+![image](https://github.com/leechence/hello-world/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200812164512.jpg)
 
 ## 关注微信公众号，交流QQ群
 微信公众号：JAVA开发者课堂
