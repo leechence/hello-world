@@ -3,7 +3,7 @@
 微信彩色昵称，表情emoji,手持弹幕，空白昵称消息小程序
 微信小程序搜索：在线实用工具箱
 或扫描微信小程序码：
-<img src="https://github.com/wdlhao/vue2-element-touzi-admin/blob/dev-base/src/assets/img/zan.png" width="80px" /></p>
+<img src="https://github.com/leechence/hello-world/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200812171115.jpg" width="80px" /></p>
 
 **分支说明：**
 
@@ -11,7 +11,7 @@
 
 ## 提示
 <p style="display:flex;align-items:center;">
- 如果你觉得该项目对你有帮忙，记得给我点赞吧!<img src="https://github.com/wdlhao/vue2-element-touzi-admin/blob/dev-base/src/assets/img/zan.png" width="80px" /></p>
+ 如果你觉得该项目对你有帮忙，记得给我点赞吧!<img src="https://github.com/leechence/hello-world/blob/master/zan.png" width="80px" /></p>
 
 ## About
 
@@ -59,7 +59,8 @@
 微信公众号：JAVA开发者课堂
 欢迎加入我们的讨论/学习群，群内可以提问答疑，分享学习资料；
 
-欢迎添加群主微信和qq群答疑：
+欢迎添加微信公众号和qq群答疑：
 
-![image](https://github.com/wdlhao/vue2-element-touzi-admin/blob/dev-permission/src/assets/img/qcode.jpg)
+![image](https://github.com/leechence/hello-world/blob/master/11111111.jpg)
+
 
